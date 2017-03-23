@@ -1,0 +1,2 @@
+set(ptam_com_MESSAGE_FILES "/root/catkin_ws/src/ethzasl_ptam/ptam_com/msg/KeyFrame_msg.msg;/root/catkin_ws/src/ethzasl_ptam/ptam_com/msg/OctoMapPointArray.msg;/root/catkin_ws/src/ethzasl_ptam/ptam_com/msg/OctoMapPointStamped.msg;/root/catkin_ws/src/ethzasl_ptam/ptam_com/msg/OctoMapScan.msg;/root/catkin_ws/src/ethzasl_ptam/ptam_com/msg/Vector3Array.msg;/root/catkin_ws/src/ethzasl_ptam/ptam_com/msg/ptam_info.msg")
+set(ptam_com_SERVICE_FILES "/root/catkin_ws/src/ethzasl_ptam/ptam_com/srv/KeyFrame_srv.srv;/root/catkin_ws/src/ethzasl_ptam/ptam_com/srv/PointCloud.srv")

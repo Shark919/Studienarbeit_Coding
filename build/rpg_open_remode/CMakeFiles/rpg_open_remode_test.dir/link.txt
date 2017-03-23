@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -O3 -std=c++0x -O3 -DNDEBUG   -shared -Wl,-soname,librpg_open_remode_test.so -o /root/catkin_ws/devel/lib/librpg_open_remode_test.so ./rpg_open_remode_test_generated_copy.cu.o ./rpg_open_remode_test_generated_sobel.cu.o /usr/local/cuda-8.0/lib64/libcudart.so -lcuda -Wl,-rpath,/usr/local/cuda-8.0/lib64 
